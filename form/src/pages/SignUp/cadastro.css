@@ -1,0 +1,28 @@
+.container-main {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  padding-left: 70px;
+  text-align: center;
+}
+.box {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.pic-container {
+  width: 440px;
+  height: 478px;
+}
+
+.link-container {
+  text-align: center;
+}
+.text-cadastro {
+  font-size: 26px;
+  white-space: nowrap;
+  padding-left: 150px;
+}

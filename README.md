@@ -1,4 +1,10 @@
 
+![Opera Instantâneo_2023-07-28_144745_localhost](https://github.com/gabrielnfarias/form-singUp/assets/105251567/606139c8-be6e-4e80-84b0-4632ada56156)
+
+![image](https://github.com/gabrielnfarias/form-singUp/assets/105251567/6c140d95-3b26-4821-98c6-26a7c827fe04)
+</img>
+
+
 Como executar o projeto
 Certifique-se de ter o Node.js e o npm instalados em seu computador.
 
